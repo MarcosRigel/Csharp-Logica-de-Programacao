@@ -37,7 +37,7 @@ namespace URI_1003
 
             SOMA = A + B;
 
-            Console.WriteLine(SOMA);
+            Console.WriteLine("SOMA = " + SOMA);
         }
     }
 }
