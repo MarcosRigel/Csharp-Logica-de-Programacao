@@ -3,3 +3,11 @@
 
 
 Neste repositório estão os exercícios do Curso de C# primeiros passos: Lógica de Programação e Algoritmos. Este curso é equivalente à disciplina de lógica de programação da faculdade.
+
+# Grade Curricular!
+- Introdução/Conceitos
+- Estrutura sequencial
+- Estrutura condicional
+- Estruturas repetitivas
+- Vetores
+- Matrizes
