@@ -46,7 +46,7 @@ namespace Exemplo_02_URI_1036
             delta = Math.Pow(b, 2.0) - 4 * a * c;
 
             if(a == 0.0 || delta < 0.0) {
-                Console.WriteLine("Impossivel Calcular");
+                Console.WriteLine("Impossivel calcular");
             }
             else {
                 r1 = (-b + Math.Sqrt(delta)) / (2.0 * a);
