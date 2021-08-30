@@ -35,7 +35,7 @@ namespace Exemplo_07 {
                 Console.Write("Deseja repetir (s/n)? ");
                 repetir = char.Parse(Console.ReadLine());
             } while (repetir == 's');
-        
+            
         }
     }
 }
