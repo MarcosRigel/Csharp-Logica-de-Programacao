@@ -1,3 +1,4 @@
+
 ![github-smal](https://hotmart.s3.amazonaws.com/product_contents/9ceca192-2fdd-42e6-aeb5-ea6c44c20950/LgicadeprogramaocomC.jpg)
 
 
@@ -11,5 +12,5 @@ Neste repositório estão os exercícios do Curso de C# primeiros passos: Lógic
 - Estruturas repetitivas
 - Vetores
 - Matrizes
-
+#
 ![github-smal](https://udemy-certificate.s3.amazonaws.com/image/UC-78FQH6YK.jpg?v=1576626945000)
