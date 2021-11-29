@@ -59,8 +59,8 @@ namespace BEE_1160
 
                 while (pa <= pb && anos < 101)
                 {
-                    pa = pa + (int)((pa * cpa) / 100);
-                    pb = pb + (int)((pb * cpb) / 100);
+                    pa += (int)((pa * cpa) / 100);
+                    pb += (int)((pb * cpb) / 100);
                     anos++;
 
                     if (anos > 100)
@@ -73,7 +73,6 @@ namespace BEE_1160
                 {
                     Console.WriteLine(anos + " anos.");
                 }
-
             }
 
         }
